@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikhi\\OneDrive\\Desktop\\myShoppingAPP\\myShoppingAPP\\myShoppingAPP.csproj",
+      "projectUniqueName": "C:\\Users\\nikhi\\OneDrive\\Desktop\\myShoppingAPP_git\\myShoppingAPP\\myShoppingAPP\\myShoppingAPP.csproj",
       "projectName": "myShoppingAPP",
-      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Desktop\\myShoppingAPP\\myShoppingAPP\\myShoppingAPP.csproj",
+      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Desktop\\myShoppingAPP_git\\myShoppingAPP\\myShoppingAPP\\myShoppingAPP.csproj",
       "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikhi\\OneDrive\\Desktop\\myShoppingAPP\\myShoppingAPP\\obj\\",
+      "outputPath": "C:\\Users\\nikhi\\OneDrive\\Desktop\\myShoppingAPP_git\\myShoppingAPP\\myShoppingAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
